@@ -22,7 +22,7 @@ import svelte from "@astrojs/svelte";
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://gdd00.github.io', // Root URL of site
+  site: 'https://gdd00.github.io/', // Root URL of site
   //base: '/',
   i18n: {
     locales: ['zh-cn', 'en'],
